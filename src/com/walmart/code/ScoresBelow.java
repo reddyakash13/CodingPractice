@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 /**
  * 
- * @author Akash
+ * @author Akash Reddy
  *
  */
 public class ScoresBelow {
