@@ -9,6 +9,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * 
+ * @author Akash Reddy
+ *
+ */
 public class ScoresBelow {
 
 	public static void main(String[] args) throws IOException {
